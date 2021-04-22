@@ -6,7 +6,7 @@ lexical specification
 StdID | Name
 ------------ | -------------
 **62155** | **Muhammad Najam Hanif** 
-60449 | Muhammad Jazib Mahmood
+**60449** | **Muhammad Jazib Mahmood**
 ## Project Description ##
 Its a simple Micro C complier, it have lex file whihch define its token, and then the yacc will parse it from left to right.
 
